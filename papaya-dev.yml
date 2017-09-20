@@ -1,0 +1,4 @@
+fruit-platter:
+    papaya:
+        foo: papaya dev foo
+        bar: papaya dev bar
