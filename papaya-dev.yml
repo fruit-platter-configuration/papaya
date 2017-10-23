@@ -1,4 +1,8 @@
 fruit-platter:
     papaya:
-        foo: papaya dev bar
-        bar: papaya dev foo
+        foo: papaya dev foo
+        bar: '{cipher}04731b01cdb5bc400c0f15abad708a7655a3b8f8db34879d627995c9665cd9cd'
+
+management:
+    security:
+        enabled: false
